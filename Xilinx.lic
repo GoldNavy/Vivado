@@ -1,0 +1,69 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Sun Dec 13 11:37:01 UTC 2015.
+#
+# This is license NODELOCKED to HOSTID=1c872c5c467b;
+# there is no need to run lmgrd for this license.
+#
+#
+#  This license is valid for evaluation ( 365 days ) from Sun Dec 13 11:37:01 UTC 2015
+INCREMENT PetaLinux_NoSuport_Eval xilinxd 2016.12 13-dec-2016 \
+uncounted 9FED1206ED23 \
+VENDOR_STRING=sfzhou4,PetaLinux_NoSuport_Eval,software,evaluation,_211118050_0_0_460 \
+HOSTID=1c872c5c467b ISSUER="Xilinx Inc" START=13-Dec-2015 \
+TS_OK
+#
+#  This license is valid for evaluation ( 30 days ) from Sun Dec 13 11:37:01 UTC 2015
+INCREMENT VIVADO_HLS xilinxd 2016.12 13-jan-2016 uncounted \
+18D5265391CB \
+VENDOR_STRING=sfzhou4,VIVADO_HLS,software,evaluation,_211118050_0_0_749 \
+HOSTID=1c872c5c467b ISSUER="Xilinx Inc" START=13-Dec-2015 \
+TS_OK
+#
+# This is a permanent license generated on Sun Dec 13 11:37:01 UTC 2015
+INCREMENT ISE_WebPACK xilinxd 2016.12 permanent uncounted \
+E73DA73B62D8 \
+VENDOR_STRING=sfzhou4,ISE_WebPACK,software,permanent,_211118050_0_0_576 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=13-Dec-2015 TS_OK
+#
+# This is a permanent license generated on Sun Dec 13 11:37:01 UTC 2015
+INCREMENT Vivado_WebPACK xilinxd 2016.12 permanent uncounted \
+40A2900EADEF \
+VENDOR_STRING=sfzhou4,Vivado_WebPACK,software,permanent,_211118050_0_0_263 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=13-Dec-2015 TS_OK
+#
+# This is a permanent license generated on Sun Dec 13 11:37:01 UTC 2015
+INCREMENT Analyzer xilinxd 2016.12 permanent uncounted 145626B48602 \
+VENDOR_STRING=sfzhou4,Analyzer,software,permanent,_211118050_0_0_522 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=13-Dec-2015 TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE PetaLinux_NoSuport_Eval xilinxd 2016.12 419A13F69CA2 \
+COMPONENTS="petalinux_arch_microblaze petalinux_arch_ppc \
+petalinux_arch_zynq" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_WebPACK xilinxd 2016.12 4FB89CF5924A COMPONENTS="SDK \
+ChipScopePro_SIOTK ChipscopePro WebPACK XC7Z010 XC7Z030 HLS \
+xps_tdp XC7Z020 PlanAhead" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE Vivado_WebPACK xilinxd 2016.12 C0972C7781C3 COMPONENTS="SDK \
+HLS V_WebPACK" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------
